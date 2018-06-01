@@ -6,8 +6,7 @@ const csvFiletoRead = "./ceps_copa_botafogo.csv";
 const csvFileOut = 'ceps_copa_botafogo_coordenadas.csv';
 const RATING_LIMIT = 50;
 const restartFile = "restartFile";
-const GOOGLE_MAP_URL = "https://maps.googleapis.com/maps/api/geocode/json?address=%s&key=AIzaSyDh0cr2f7jp19d3Uwzy_0hAcvtgBM6j8lA";
-//const GOOGLE_MAP_URL = "https://maps.googleapis.com/maps/api/geocode/json?address=%s&key=AIzaSyDApXrF32YVVG3k_NO6CD0VpA0NcKEtA-g";
+const GOOGLE_MAP_URL = "https://maps.googleapis.com/maps/api/geocode/json?address=%s&key=";
 const fs = require('fs');
 
 var client = new Client();
