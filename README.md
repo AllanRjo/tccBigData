@@ -1,6 +1,6 @@
-#Trabalho de Conclusão de curso de BigData
+# Trabalho de Conclusão de curso de BigData
 
-##Fluxo de tratamento da informação
+## Fluxo de tratamento da informação
 
 ![Fluxo de tratamento da Informação](image/Fluxotratamentoinformacao.png "Fluxo de tratamento da Informação")
 
