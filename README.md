@@ -30,7 +30,4 @@
 |![Html5](image/HTML_Logo.png)|Descrição|
 |--------------|-----------------|
 |ceps_copa_botafogo_marker_asis.html|Visualizador das coordenadas geográficas anteriores a clusterização usando componente Google Maps.|
-|ceps_copa_botafogo_marker_tobe.html|Visualizador das coordenadas geográficas posterior a clusterização usando componente Google Maps| 
-
-
-ceps_copa_botafogo_marker_tobe.html
+|ceps_copa_botafogo_marker_tobe.html|Visualizador das coordenadas geográficas posterior a clusterização usando componente Google Maps.|
