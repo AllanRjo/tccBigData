@@ -21,10 +21,16 @@
 
 |![Python](image/phyton.png)|Descrição|
 |--------------|-----------------|
-|plot_kmeans_assumptions.ipynb|Notebook do Jupyter em Python que desempenha as funções descritas adiante.
+|plot_kmeans_assumptions.ipynb|Notebook do Jupyter em Python que desempenha as funções descritas adiante.|
 |Função 1|Visualização dos dados antes da clusterizacao| 
 |Função 2|Implementação do algoritmo K-means aplicada a massa de dados de CEPs das APS.|
 |Função 3|Calcula as distancias to_be dos CEPs em relacao as APS| 
 |Função 4|Calcula as distancias AS_IS, ou seja, em relação as agencias localizadas atualmente| 
  
+|![Html5](image/HTML_Logo.png)|Descrição|
+|--------------|-----------------|
+|ceps_copa_botafogo_marker_asis.html|Visualizador das coordenadas geográficas anteriores a clusterização usando componente Google Maps.|
+|ceps_copa_botafogo_marker_tobe.html|Visualizador das coordenadas geográficas posterior a clusterização usando componente Google Maps| 
 
+
+ceps_copa_botafogo_marker_tobe.html
